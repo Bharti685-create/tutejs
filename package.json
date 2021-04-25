@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "EJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharti685-create/tutejs.git"
+  },
+  "keywords": [
+    "EJS",
+    "JS"
+  ],
+  "author": "Bharti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharti685-create/tutejs/issues"
+  },
+  "homepage": "https://github.com/Bharti685-create/tutejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
